@@ -3,4 +3,4 @@ This repo contains numerical integration/differentiation, and PDE solver includi
 
 * Differentiator implemented: `First order forward/backward/central differentiator`, `Second order central differentiator`, `Central partial differentiator`
 * Integrater implemented: `Trapezoidal integrator`, `Simpson's integrator`, `Error estimator`
-* PDE Solver:
+* PDE Solver: `Euler's method`, `forth order Runge Kutta`, `forth order Runge Kutta with adaptive step size`
